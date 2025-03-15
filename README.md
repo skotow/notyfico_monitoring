@@ -34,7 +34,7 @@ How to get API key!
 #Get and Activate API key possible via dashbord https://notyfi.co/dashboard
 
 #Add API key and parameters 
-directory ./monitor_modules/config.py
+directory ./.env
 
 
 #Send notification function has optional tag parameter 
