@@ -1,6 +1,6 @@
 Notyfi.co is the ultimate solution for seamless, real-time notifications. 
 Effortlessly program and receive notifications via API, ensuring instant updates for you and your users.
-Whether it’s system alerts, reminders, or custom notifications, Notyfi.Co keeps you informed—nothing more, nothing less.
+Whether itants system alerts, reminders, or custom notifications, Notyfi.Co keeps you informed—nothing more, nothing less.
 Simply integrate, configure, and stay updated.
 
 
