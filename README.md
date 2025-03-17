@@ -37,6 +37,5 @@ How to get API key!
 directory ./.env
 
 
-#Send notification function has optional tag parameter 
-#Tag parameter you can create via dashbord https://notyfi.co/dashboard
-function send_notification(message, tag=OPTIONAL)
+check our documentation https://notyfi.co/docs
+
