@@ -17,7 +17,7 @@ def main():
     print("Sending notification")
     parser = argparse.ArgumentParser(description="Send an inline message via Notyfi.co")
     parser.add_argument("message", type=str, help="The message to send")
-    parser.add_argument("tag", type=str, help="Tag your message")
+    parser.add_argument("--tag", type=str, help="Tag your message")
 
     args = parser.parse_args()
 
