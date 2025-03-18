@@ -12,6 +12,7 @@ setup(
     entry_points={
         "console_scripts": [
             "notyfico_monitor=monitor_modules.main:main",  # Entry point should point to the correct function
+            "notyfico_inline_msg=monitor_modules.inline:main",  # New entry point
         ],
     },
     author="Notyfi.co",
